@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: gitops-app
-        image: jawaracode/myapp:v1
+        image: jawaracode/myapp:v8
         ports:
         - containerPort: 8080
